@@ -47,7 +47,7 @@ def remove_every_other(lst):
     
 ##############################################################
 
-CHALLENGE 4: SUM PAIRS
+#CHALLENGE 4: SUM PAIRS
 
 '''
 sum_pairs([4,2,10,5,1], 6) # [4,2]
@@ -65,7 +65,7 @@ def sum_pairs(lst1, num):
 
 ##############################################################
 
-CHALLENGE 5: VOWEL COUNT
+#CHALLENGE 5: VOWEL COUNT
 
 '''
 vowel_count('awesome') # {'a': 1, 'e': 2, 'o': 1}
@@ -87,7 +87,7 @@ def vowel_count(string):
     
 ##############################################################
 
-CHALLENGE 6: TITLEIZE
+#CHALLENGE 6: TITLEIZE
 
 '''
 titleize('this is awesome') # "This Is Awesome"
@@ -99,7 +99,7 @@ def titleize(string):
 
 ##############################################################
 
-CHALLENGE 7: FIND FACTORS
+#CHALLENGE 7: FIND FACTORS
 
 '''
 find_factors(10) # [1,2,5,10 ]
@@ -114,7 +114,7 @@ def find_factors(num):
     
 ##############################################################
 
-CHALLENGE 8: INCLUDES
+#CHALLENGE 8: INCLUDES
 
 '''
 includes([1, 2, 3], 1) # True 
@@ -133,7 +133,7 @@ def includes(coll, val, index=0):
     
 ##############################################################
 
-CHALLENGE 9: TRUNCATE
+#CHALLENGE 9: TRUNCATE
 
 '''
 truncate("Super cool", 2) # "Truncation must be at least 3 characters."
